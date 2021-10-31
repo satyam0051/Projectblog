@@ -17,14 +17,5 @@ httplib2==0.18.1
 hupper==1.10.2
 hyperframe==6.0.0
 hyperlink==19.0.0
-redis==3.5.3
-reportbug==11.0.0
-repoze.lru==0.7
-requests==2.25.1
-requests-file==1.5.1
-requests-ntlm==1.1.0
-requests-oauthlib==1.3.0
-requests-toolbelt==0.9.1
-retrying==1.3.3
 Routes==2.5.1
 
